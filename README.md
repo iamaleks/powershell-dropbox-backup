@@ -1,4 +1,4 @@
-# powershell-dropbox-backup
+# PowerShell DropBox Backup Script
 
 Backup folders onto DropBox using PowerShell.
 
